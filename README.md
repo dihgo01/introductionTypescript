@@ -1,17 +1,11 @@
 <h1 align="center">
-    <img alt="React RocketShoes" src="https://github.com/dihgo01/Rocketshoes/blob/master/src/assets/images/logo2.png" width ="300px" heigth="300px" />
-    <br>
-    <br>
-    React RocketShoes
+   Typescript Introduction
 </h1>
 
-<h4 align="center">
-  NetShoes Clone App with React and Redux.
-</h4>
 
 <div align="center" style="margin: 20px;">
   <p align="center" >
-  <a href="#star-prévia-da-aplicação"> :star: Introduction</a> |
+  <a href="#star-introduction"> :star: Introduction</a> |
   <a href="#rocket-technologies"> :rocket: Technologies</a> |
   <a href="#computer-how-to-use"> :computer: How To Use </a> |
   </p>
@@ -19,29 +13,16 @@
 
 ## :star: Introduction
 
-   <p style="margin-bottom= 50px;">Application made in react and redux for e-commerce performed in GoStack training</p>
+   <p style="margin-bottom= 50px;">this application is for scheduling services, with the purpose of studying typescript</p>
     
-   ![rockeseat](https://user-images.githubusercontent.com/49100518/133716679-94c4aa01-2601-4d63-bf2f-7b4c1ca101bb.gif)
-
+   
 ## :rocket: Technologies
 
 This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) with the following technologies:
 
--  [ReactJS](https://reactjs.org/)
--  [Redux](https://redux.js.org/)
--  [Redux-Saga](https://redux-saga.js.org/)
--  [React Router v4](https://github.com/ReactTraining/react-router)
--  [Axios](https://github.com/axios/axios)
--  [History](https://www.npmjs.com/package/history)
--  [Immer](https://github.com/immerjs/immer)
--  [Polished](https://polished.js.org/)
--  [React-Toastify](https://fkhadra.github.io/react-toastify/)
--  [styled-components](https://www.styled-components.com/)
--  [React-Icons](https://react-icons.netlify.com/)
--  [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton)
--  [react-loader-spinner](https://github.com/mhnpd/react-loader-spinner)
--  [json-server](https://github.com/typicode/json-server)
--  [Reactotron](https://infinite.red/reactotron)
+-  [NodeJS](https://nodejs.org/en/)
+-  [Express](https://expressjs.com/pt-br/)
+-  [Typescript](https://www.typescriptlang.org/)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :computer: How To Use
@@ -50,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/dihgo01/Rocketshoes.git
+$ git clone https://github.com/dihgo01/introductionTypescript.git
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd introductionTypescript-master
 
 # Install dependencies
 $ yarn install
